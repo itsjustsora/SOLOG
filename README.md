@@ -23,3 +23,6 @@
 - [loops.md](<kotlin/basic_syntax/loops.md>)
 - [exceptions.md](<kotlin/basic_syntax/exceptions.md>)
 - [function_usage.md](<kotlin/basic_syntax/function_usage.md>)
+- [classes_objects_interfaces.md](<kotlin/basic_syntax/classes_objects_interfaces.md>)
+- [lambda_expressions.md](<kotlin/basic_syntax/lambda_expressions.md>)
+- [types.md](<kotlin/basic_syntax/types.md>)
