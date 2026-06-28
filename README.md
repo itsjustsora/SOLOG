@@ -17,5 +17,9 @@
 
 ### Basic Syntax
 
-- [classes_and_instances.md](<kotlin/basic_syntax/classes_and_instances.md>)
 - [functions_and_variables.md](<kotlin/basic_syntax/functions_and_variables.md>)
+- [classes_and_instances.md](<kotlin/basic_syntax/classes_and_instances.md>)
+- [when_and_enum.md](<kotlin/basic_syntax/when_and_enum.md>)
+- [loops.md](<kotlin/basic_syntax/loops.md>)
+- [exceptions.md](<kotlin/basic_syntax/exceptions.md>)
+- [function_usage.md](<kotlin/basic_syntax/function_usage.md>)
